@@ -4,7 +4,6 @@ function getUKTime() {
   return result
 }
 
-getUKTime()
 
 /*
 function discountTicket(price) {
