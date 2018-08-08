@@ -5,3 +5,6 @@ function getUKTime() {
 
 getUKTime()
 
+discountTicket(price) {
+  
+}
