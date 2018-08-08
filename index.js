@@ -8,6 +8,6 @@ function getUKTime() {
 
 
 function discountTicket(price) {
-  return price - (price * 20)/100
+  let actualPrice = price - (price * 20)/100
+  return actualPrice
 }
-*/
