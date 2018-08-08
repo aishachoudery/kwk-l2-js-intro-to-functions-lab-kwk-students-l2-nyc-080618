@@ -1,6 +1,7 @@
 // Write your code in this file!
 function getUKTime() {
-  new Date().gethours + 5;
+  let result = new Date().gethours + 5; 
+  return result
 }
 
 getUKTime()
