@@ -5,6 +5,7 @@ function getUKTime() {
 
 getUKTime()
 
-discountTicket(price) {
-  
+/*
+function discountTicket(price) {
+  return price - (price * 20)/100
 }
